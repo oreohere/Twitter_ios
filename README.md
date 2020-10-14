@@ -1,7 +1,7 @@
 # Project 3 - Twitter
 Twitter is a basic twitter app to read your tweets.
 
-Time spent: 6 hours spent in total
+Time spent: 7 hours spent in total
 
 ## User Stories
 
